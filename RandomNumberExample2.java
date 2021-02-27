@@ -1,3 +1,5 @@
+// A Java program to demonstrate random number generation from min value to max value
+
 public class RandomNumberExample2  
 {  
 public static void main( String args[] )   
